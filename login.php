@@ -78,7 +78,7 @@ if(isset($_SESSION['user'])){
                 </div>
 
                 <div class="d-grid">
-                    <button type="submit" class="btn btn-info" name="login">Register</button>
+                    <button type="submit" class="btn btn-info" name="login">Login</button>
                 </div>
             </form>
         </div>
